@@ -1,2 +1,2 @@
-# Overview
-The executable, keylogger.exe utilises a Go library (github.com/robotn/gohook) to record a user's keystrokes. It stores the user's keystrokes in a variable, 'keystrokes' and prints out the user's keystrokes every 7 seconds. 
+## Overview
+Captures letters, special characters, numbers and spaces
