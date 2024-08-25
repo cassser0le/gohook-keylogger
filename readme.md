@@ -1,2 +1,2 @@
 ## Overview
-Captures letters, special characters, numbers and spaces
+The executable captures letters, special characters, numbers and spaces.
